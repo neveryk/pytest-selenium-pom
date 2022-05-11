@@ -1,0 +1,31 @@
+[2022-05-10 17:36:02,605][base_action.py][24][INFO]:截图成功,文件名:D:\py\pytest-selenium-pom\img\截图20220510173601.png
+[2022-05-10 18:03:58,361][base_action.py][38][INFO]:模块:,获取元素成功, 定位类型xpath,定位表达式://*[@id="login"]/div[3]/div/form/div[1]/div/div/input
+[2022-05-10 18:03:58,388][base_action.py][105][INFO]:清除元素成功!
+[2022-05-10 18:03:58,425][base_action.py][126][INFO]:清除数据成功，输入文本adm
+[2022-05-10 18:03:58,451][base_action.py][38][INFO]:模块:,获取元素成功, 定位类型xpath,定位表达式://*[@id="login"]/div[3]/div/form/div[2]/div/div/input
+[2022-05-10 18:03:58,475][base_action.py][105][INFO]:清除元素成功!
+[2022-05-10 18:03:58,523][base_action.py][126][INFO]:清除数据成功，输入文本123
+[2022-05-10 18:03:58,532][base_action.py][38][INFO]:模块:,获取元素成功, 定位类型xpath,定位表达式://*[@id="login"]/div[3]/div/form/div[3]/div/div
+[2022-05-10 18:03:58,565][base_action.py][151][INFO]:以点击元素
+[2022-05-10 18:04:08,632][base_action.py][172][ERROR]:url路径匹配:页面路径:http://192.168.10.167:88/login, 匹配路径:home
+[2022-05-10 18:04:09,298][base_action.py][23][INFO]:截图成功,文件名:D:\py\pytest-selenium-pom\img\截图20220510180408.png
+[2022-05-10 18:04:38,293][base_action.py][38][INFO]:模块:,获取元素成功, 定位类型xpath,定位表达式://*[@id="login"]/div[3]/div/form/div[1]/div/div/input
+[2022-05-10 18:04:38,315][base_action.py][105][INFO]:清除元素成功!
+[2022-05-10 18:04:38,356][base_action.py][126][INFO]:清除数据成功，输入文本adm
+[2022-05-10 18:04:38,365][base_action.py][38][INFO]:模块:,获取元素成功, 定位类型xpath,定位表达式://*[@id="login"]/div[3]/div/form/div[2]/div/div/input
+[2022-05-10 18:04:38,391][base_action.py][105][INFO]:清除元素成功!
+[2022-05-10 18:04:38,436][base_action.py][126][INFO]:清除数据成功，输入文本123
+[2022-05-10 18:04:38,446][base_action.py][38][INFO]:模块:,获取元素成功, 定位类型xpath,定位表达式://*[@id="login"]/div[3]/div/form/div[3]/div/div
+[2022-05-10 18:04:38,485][base_action.py][151][INFO]:以点击元素
+[2022-05-10 18:04:38,491][base_action.py][83][ERROR]:等待元素失败,定位方式xpath
+[2022-05-10 18:04:39,246][base_action.py][23][INFO]:截图成功,文件名:D:\py\pytest-selenium-pom\img\截图20220510180438.png
+[2022-05-10 18:06:07,307][base_action.py][38][INFO]:模块:,获取元素成功, 定位类型xpath,定位表达式://*[@id="login"]/div[3]/div/form/div[1]/div/div/input
+[2022-05-10 18:06:07,333][base_action.py][105][INFO]:清除元素成功!
+[2022-05-10 18:06:07,378][base_action.py][126][INFO]:清除数据成功，输入文本adm
+[2022-05-10 18:06:07,390][base_action.py][38][INFO]:模块:,获取元素成功, 定位类型xpath,定位表达式://*[@id="login"]/div[3]/div/form/div[2]/div/div/input
+[2022-05-10 18:06:07,417][base_action.py][105][INFO]:清除元素成功!
+[2022-05-10 18:06:07,461][base_action.py][126][INFO]:清除数据成功，输入文本123
+[2022-05-10 18:06:07,478][base_action.py][38][INFO]:模块:,获取元素成功, 定位类型xpath,定位表达式://*[@id="login"]/div[3]/div/form/div[3]/div/div
+[2022-05-10 18:06:07,543][base_action.py][151][INFO]:以点击元素
+[2022-05-10 18:06:07,543][base_action.py][136][ERROR]:获取元素内容失败
+[2022-05-10 18:06:08,346][base_action.py][23][INFO]:截图成功,文件名:D:\py\pytest-selenium-pom\img\截图20220510180607.png
