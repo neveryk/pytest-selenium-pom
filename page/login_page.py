@@ -1,10 +1,11 @@
 from selenium.webdriver.common.by import By
 from base.base_action import BaseAction
 class Login(BaseAction):
+
     username=(By.XPATH,'//*[@id="login"]/div[3]/div/form/div[1]/div/div/input')
     password=(By.XPATH,'//*[@id="login"]/div[3]/div/form/div[2]/div/div/input')
     click_login=(By.XPATH,'//*[@id="login"]/div[3]/div/form/div[3]/div/div')
-    login_error="//span[text()='登录账号不存在！']"
+    login_error="//span[text()='管理员']"
     login_url_success='home'
 
     def login(self,username,password):
@@ -17,9 +18,7 @@ class Login(BaseAction):
         self.click(submit_ele)
 
     def login_url_check(self):
-        url=self.url_matches(self.login_url_success)
-        return url
+        self.url_matches(self.login_url_success)
 
     def login_message_chech(self):
-        message=self.get_text(self.login_error)
-        return message
+        self.get_text(self.login_error)

@@ -1,4 +1,6 @@
 test_login:
-  username: admin
-  password: mmkj201509
-
+  - ["sadui",'123']
+  - ["admin","mmkj201509"]
+search:
+  - ["LC202205120028"]
+  - ["LC202205120027"]

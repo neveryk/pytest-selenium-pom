@@ -172,3 +172,7 @@ class BaseAction:
             logger.error(f"{doc}:页面路径:{self.driver.current_url}, 匹配路径:{url}")
             self.save_screenshot()
             raise
+
+    def implicitly_wait(self):
+        self.driver.implicitly_wait (10)
+        logger.info('显示等待10秒')
