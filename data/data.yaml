@@ -1,6 +1,6 @@
 test_login:
-  - ["sadui",'123']
-  - ["admin","mmkj201509"]
+  - ["sadui",'123','false']
+  - ["admin","mmkj201509",'success']
 search:
   - ["LC202205120028"]
   - ["LC202205120027"]
